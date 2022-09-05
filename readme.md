@@ -1,5 +1,5 @@
 # README
-## Til PST:
+
 Koden i denne mappen er fra en innlevering jeg hadde i våres på universitetet. Den tar for seg både graph theory og webscraping. Jeg valgte denne koden siden jeg kan se for meg det kan være relevant for stillingen og siden jeg var fornøyd med innleveringen. Det skal være komentarer som forklarer de forskjellige delene ved koden, men ta gjerne kontakt om noe trenger forklaring. Jeg har masse programmer jeg har laget opp igjennom, så om dere vil se noe annet er det bare å si ifra.
 Oppgaveteksten er også lagt ved.
 
